@@ -1,8 +1,8 @@
 $(document).ready(function(){
-        $(".box1").css({positon: 'relative', float: 'left'});
-        $(".box2").css({positon: 'relative', float: 'right'});
-        $(".box3").css({positon: 'relative', float: 'left'});
-        $(".box4").css({positon: 'relative', float: 'right'});
+        $(".box1").css({position: 'relative', float: 'left'});
+        $(".box2").css({position: 'relative', float: 'right'});
+        $(".box3").css({position: 'relative', float: 'left'});
+        $(".box4").css({position: 'relative', float: 'right'});
 	$(".box1").animate({height:'50%',width:'50%'},0, 'swing');
 	$(".box2").animate({height:'50%',width:'50%'},0, 'swing');
 	$(".box3").animate({height:'50%',width:'50%'},0, 'swing');
