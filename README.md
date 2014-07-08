@@ -1,7 +1,7 @@
-SquishBox.js
+SquishBox.js Alpha
 ============
 
-This is a free jQuery plugin that will take a set of 4 Square Images and generates a Square gallery that animates while being hovered over.
+This is a free jQuery plugin that will take a set of 4 Square Images and generate a Square gallery that animates and squishes while being hovered over.
 
 There are a few things you need to do before getting it up and running.
 
