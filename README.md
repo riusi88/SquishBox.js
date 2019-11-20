@@ -1,3 +1,5 @@
+[Old and Depricated]
+
 SquishBox.js Alpha
 ============
 
